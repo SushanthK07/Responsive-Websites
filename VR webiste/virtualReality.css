@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-image {
+    width: 60px;
+    height: 40px;
+}
+
+#navItem1,
+#navItem2,
+#navItem3,
+#navItem4,
+#navItem5 {
+    color: #1a2137;
+    font-size: 16px;
+}
+
+.vr-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.vr-text-container {
+    padding: 15px;
+}
+
+.vr-text-heading {
+    color: white;
+    font-size: 45px;
+}
+
+.vr-button {
+    font-size: 18px;
+    background-color: #1a2137;
+    color: white;
+}
+
+.vr-features-main-heading {
+    font-size: 26px;
+    font-weight: bold;
+    color: #1f2933;
+}
+
+.vr-features-image {
+    height: 60px;
+    width: 60px;
+}
+
+.vr-features-heading {
+    font-size: 20px;
+    color: #1f2933;
+}
+
+.vr-features-description {
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.highlight-between {
+    font-weight: bold;
+    font-style: italic;
+    color: #1f2933;
+}
+
+.kit-bg-container {
+    background-color: #f9fbfe;
+}
+
+.vr-kit-heading {
+    font-size: 26px;
+    font-weight: bold;
+    color: #1f2933;
+}
+
+.vr-kit-image {
+    width: 60%;
+    height: 240px;
+}
+
+.vr-kit-title {
+    font-size: 18px;
+    color: #323f4b;
+}
+
+.vr-optics-controller-image {
+    width: 100%;
+}
+
+.vr-optics-controller-heading {
+    font-size: 30px;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.vr-optics-controller-description {
+    font-size: 18px;
+    color: #7b8794;
+}
+
+.vr-optics-controller-button {
+    background-color: #1a2137;
+    color: white;
+    font-size: 18px;
+    width: 120px;
+}
+
+.contact-bg-container {
+    background-color: #222b36;
+}
+
+.vr-contact-heading {
+    font-size: 30px;
+    color: white;
+}
+
+.vr-contact-image {
+    width: 100%;
+}
+
+.vr-contact-button {
+    background-color: transparent;
+    color: white;
+    font-size: 13px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    width: 120px;
+}
+
+.trending-bg-container {
+    background-color: white;
+}
+
+.vr-trending-heading {
+    color: #1f2933;
+    font-size: 30px;
+}
+
+.vr-trending-card {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.vr-trending-image {
+    width: 100%;
+}
+
+.vr-trending-caption {
+    color: #959ead;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.vr-trending-description {
+    color: #323f4b;
+    font-size: 18px;
+}
+
+.vr-trending-link {
+    font-size: 14px;
+    font-weight: bold;
+    color: #1754a1;
+}
+
+.vr-trending-button {
+    background-color: #1754a1;
+    color: white;
+    font-size: 14px;
+    width: 120px;
+}
+
+.vr-product-heading {
+    font-size: 30px;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.vr-product-card1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+
+.vr-product-card2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+
+.vr-product-name {
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.vr-product-price {
+    color: white;
+    font-size: 14px;
+}
+
+.vr-product-buybutton {
+    background-color: transparent;
+    color: white;
+    font-size: 14px;
+    border-color: white;
+    width: 120px;
+}
+
+.vr-product-button {
+    background-color: #1754a1;
+    color: white;
+    font-size: 14px;
+    border-color: white;
+    width: 120px;
+}
+
+.vr-logo-bg-container {
+    background-color: #19232d;
+}
+
+.vr-footer-logo {
+    height: 40px;
+    width: 60px;
+}
+
+.follow-icons-bg {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: #5a7184;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    border-width: 1px;
+    margin: 5px;
+}
+
+.follow-icons {
+    color: #eef0f2;
+    font-size: 16px;
+}
+
+.vr-footer-description {
+    color: #5a7184;
+    font-size: 14px;
+}
+
+.vr-footer-heading {
+    color: #5a7184;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.contact-icons {
+    color: #5a7184;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+
+.vr-hr-line {
+    border-color: #5a7184;
+    border-width: 2px;
+}

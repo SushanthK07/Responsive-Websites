@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-logo {
+    height: 60px;
+    width: 150px;
+}
+
+.festival-wishes-image {
+    height: 100vh;
+}
+
+.eservices-bg-container {
+    background-color: white;
+}
+
+.eservices-heading {
+    color: #183b56;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.eservices-description {
+    color: #7b8794;
+    font-size: 18px;
+}
+
+.eservices-card {
+    text-align: center;
+}
+
+.eservices-image {
+    width: 100px;
+    height: 100px;
+}
+
+.eservices-card-heading {
+    color: #1f2933;
+    font-size: 22px;
+}
+
+.eservices-card-description {
+    color: #616c7c;
+    font-size: 15px;
+}
+
+.products-main-heading {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.products-card {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    height: 50vh;
+    border-radius: 20px;
+}
+
+.products-card2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    height: 50vh;
+    border-radius: 20px;
+}
+
+.products-card-heading {
+    color: white;
+    font-size: 30px;
+}
+
+.products-card-description {
+    color: white;
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+.products-card-button {
+    color: #ff9f00;
+    font-size: 16px;
+    background-color: white;
+    border-radius: 20px;
+    width: 120px;
+}
+
+.products-modal-heading {
+    font-size: 22px;
+}
+
+.products-modal-description {
+    font-size: 16px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.products-link {
+    color: #ff9f00;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+.offers-bg-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.offers-special-image {
+    width: 100%;
+}
+
+.offers-appliances-image {
+    width: 100%;
+}
+
+.offers-banner-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ad2167;
+}
+
+.offers-banner-description {
+    color: white;
+    font-size: 17px;
+}
+
+.text-highlight {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.offers-payment-image {
+    width: 85%;
+}
+
+.deals-bg-container {
+    background-color: #f5f7fa;
+}
+
+.deals-main-heading {
+    color: #183b56;
+    font-size: 33px;
+    font-weight: bold;
+}
+
+.deals-card {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.deals-card-heading {
+    color: #183b56;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.deals-card-image {
+    border-radius: 10px;
+}
+
+.deals-card-description {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.deals-card-link {
+    color: #ff9f00;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.blogs-main-heading {
+    font-size: 33px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.blogs-card-image {
+    width: 100%;
+}
+
+.blogs-card-caption {
+    color: #959ead;
+    font-size: 14px;
+}
+
+.blogs-card-heading {
+    font-weight: bold;
+    font-size: 22px;
+    color: #183b56;
+}
+
+.blogs-card-description {
+    font-size: 18px;
+    color: #959ead;
+}
+
+.blogs-card-link {
+    color: #ff9f00;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.contact-bg-container {
+    background-color: #f5f7fa;
+}
+
+.contact-heading {
+    color: #183b56;
+    font-size: 33px;
+    font-weight: bold;
+}
+
+.contact-button {
+    border-width: 2px;
+    border-radius: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.footer-bg-container {
+    background-color: #0d2436;
+}
+
+.footer-image {
+    width: 180px;
+    height: 60px;
+}
+
+.footer-icons-bg {
+    background-color: #152c3e;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    padding-top: 15px;
+    margin: 5px;
+}
+
+.footer-icons {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.footer-description {
+    color: #5a7184;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.footer-title {
+    color: #5a7184;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.footer-hline {
+    border-color: #5a7184;
+}
